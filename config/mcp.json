@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wechat": {
+      "command": "{{PYTHON}}",
+      "args": ["-X", "utf8", "{{HOME}}/.claude/hooks/wechat_mcp_server.py"]
+    }
+  }
+}
